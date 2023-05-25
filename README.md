@@ -33,7 +33,7 @@ The Task List App is a Java application built using JavaFX that allows users to 
 
 ## Customization
 
-- You can customize the visual appearance of the application by modifying the `style.css` file.
+- You can customize the visual appearance of the application by creating a css file.
 - Adjust the styles, colors, and layout according to your preferences.
 
 ## Dependencies
