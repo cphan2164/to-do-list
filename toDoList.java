@@ -21,7 +21,7 @@ import javafx.stage.Stage;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main extends Application {
+public class toDoList extends Application {
 
     // Create the fields for the application
     private TextField taskTextField;
