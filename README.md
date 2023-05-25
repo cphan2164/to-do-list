@@ -19,7 +19,7 @@ The Task List App is a Java application built using JavaFX that allows users to 
 1. Clone the repository or download the source code.
 2. Open the project in your Java IDE (e.g., Visual Studio Code).
 3. Ensure that the JavaFX SDK is properly configured in your IDE.
-4. Build and run the `Main.java` file to launch the Task List App.
+5. Build and run the `Main.java` file to launch the Task List App.
 
 ## Usage
 
